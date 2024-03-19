@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Noirspider
+![Matrix Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 Welcome to my GitHub profile! I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
 
@@ -31,6 +32,6 @@ Welcome to my GitHub profile! I'm a developer passionate about a wide range of t
 
 [![OctoRing](https://img.shields.io/badge/Join-My%20OctoRing-blue)](https://github.com/Noirspider/octo-ring)
 
-🚀 **Something Fun:**
 
-![Matrix Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
