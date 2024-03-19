@@ -1,5 +1,12 @@
 ### Hi there 👋
 ![Le tue statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Noirspider&show_icons=true)
+![Noirspider's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Noirspider)
+![Noirspider's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Noirspider)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Noirspider.Noirspider)
+![Noirspider's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Noirspider)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Noirspider)
+[![OctoRing](https://img.shields.io/badge/Join-My%20OctoRing-blue)](https://github.com/Noirspider/octo-ring)
+
 
 <!--
 **Noirspider/Noirspider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
