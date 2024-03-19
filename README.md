@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Noirspider
 ![Matrix Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-
+bubbabubbabubba
 Welcome to my GitHub profile! I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
 
 - 🌐 Web Development: HTML, CSS, SCSS, JavaScript, TypeScript
@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a developer passionate about a wide range of t
 
 [![OctoRing](https://img.shields.io/badge/Join-My%20OctoRing-blue)](https://github.com/Noirspider/octo-ring)
 
-
+V I S I T O R - C O U N T : 
+![Visitor Count](https://profile-counter.glitch.me/godwingino/count.svg)
 
 
