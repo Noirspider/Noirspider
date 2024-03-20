@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Noirspider
-![Matrix Code](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Matrix Code](assets/readmegif.gif)
+)
 
 Welcome to my GitHub profile! I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
 
