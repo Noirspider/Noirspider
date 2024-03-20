@@ -33,6 +33,6 @@ Welcome to my GitHub profile! I'm a developer passionate about a wide range of t
 [![OctoRing](https://img.shields.io/badge/Join-My%20OctoRing-blue)](https://github.com/Noirspider/octo-ring)
 
 V I S I T O R - C O U N T : 
-![Visitor Count](https://profile-counter.glitch.me/godwingino/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Noirspider/count.svg)
 
 
