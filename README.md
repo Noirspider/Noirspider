@@ -1,9 +1,16 @@
-### Hi there 👋, I'm Noirspider
+###
+
+<div style="background-color: black; padding: 20px">
+<div align="center">
+<span style="color: #00FF00; font-weight: bold; font-size: 26px;">Hi there 👋, I'm Noirspider</span>
+<br>
+<span style="color: #00FF00; font-weight: bold; font-size: 20px;">Welcome to my GitHub profile!</span>
+<br>
+</div>
 
 ![Matrix Code](assets/readmegif.gif)
-)
 
-Welcome to my GitHub profile! I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
+<span style="font-size: 18px;">I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:</span>
 
 - 🌐 Web Development: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -26,27 +33,26 @@ Welcome to my GitHub profile! I'm a developer passionate about a wide range of t
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali%20linux&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+🤝 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianluca-grillo-700a561bb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/g.gr_10/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Noirspider)
+
 📊 **My GitHub Statistics:**
 
-![Noirspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noirspider&show_icons=true&theme=algolia)
-
-![Noirspider's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Noirspider&theme=algolia)
+![Noirspider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noirspider&show_icons=true&theme=radical&hide_border=true&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=00FF00)
+![Noirspider's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Noirspider&theme=radical&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=FFFFFF&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=FFFFFF)
+![Noirspider's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Noirspider&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000&langs_count=8&border_color=00FF00&hide_border=true&size_weight=1&count_weight=1)
 
 🏆 **Achievements**
 
-![Noirspider's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Noirspider&theme=nord)
+![Noirspider's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Noirspider&theme=matrix)
 
-👁️ **Profile Views**
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Noirspider.Noirspider)
-
-📈 **Activity Graph**
-
-![Noirspider's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Noirspider&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
-
-💠 **Join My OctoRing**
-
-[![OctoRing](https://img.shields.io/badge/Join-My%20OctoRing-blue)](https://github.com/Noirspider/octo-ring)
+<!--![Codewars](https://www.codewars.com/users/Noirspider/badges/large)
+-->
 
 V I S I T O R - C O U N T :
 ![Visitor Count](https://profile-counter.glitch.me/Noirspider/count.svg)
+
+</div>
