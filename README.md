@@ -6,10 +6,10 @@
 <br>
 <span style="color: #00FF00; font-weight: bold; font-size: 20px;">Welcome to my GitHub profile!</span>
 <br>
-</div>
 
 ![Matrix Code](assets/readmegif.gif)
 
+</div>
 <span style="font-size: 18px;">I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:</span>
 
 - 🌐 Web Development: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
