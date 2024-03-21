@@ -1,4 +1,4 @@
-# 🟢 Hello World! I'm Noirspider 🕸️ 🟢
+# 🟢 Hello World! I'm Noirspider 🟢
 
 
 
