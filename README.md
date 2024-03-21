@@ -1,16 +1,11 @@
+# Hi there 👋, I'm Noirspider
+### Welcome to my GitHub profile!
 
-
-<div >
-<div align="center">
-<span font-size="20px">Hi there 👋, I'm Noirspider</span>
-<br>
-<span >Welcome to my GitHub profile!</span>
-<br>
 
 ![Matrix Code](assets/readmegif.gif)
 
-</div>
-<span >I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:</span>
+
+I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
 
 - 🌐 Web Development: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -54,5 +49,3 @@
 
 V I S I T O R - C O U N T :
 ![Visitor Count](https://profile-counter.glitch.me/Noirspider/count.svg)
-
-</div>
