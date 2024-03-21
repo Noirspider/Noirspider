@@ -1,16 +1,16 @@
-###
 
-<div style="background-color: black; padding: 20px">
+
+<div >
 <div align="center">
-<span style="color: #00FF00; font-weight: bold; font-size: 26px;">Hi there 👋, I'm Noirspider</span>
+<span font-size="20px">Hi there 👋, I'm Noirspider</span>
 <br>
-<span style="color: #00FF00; font-weight: bold; font-size: 20px;">Welcome to my GitHub profile!</span>
+<span >Welcome to my GitHub profile!</span>
 <br>
 
 ![Matrix Code](assets/readmegif.gif)
 
 </div>
-<span style="font-size: 18px;">I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:</span>
+<span >I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:</span>
 
 - 🌐 Web Development: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
