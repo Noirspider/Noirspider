@@ -1,9 +1,6 @@
 # 🟢 Hello World! I'm Noirspider 🟢
 
-
-
 ![Matrix Code](assets/readmegif.gif)
-
 
 I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
 
@@ -27,6 +24,11 @@ I'm a developer passionate about a wide range of technologies. Here's a quick ov
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali%20linux&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+  I'm currently focusing on
+
+  - 🐳 Docker: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - 🐍 Python: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🤝 Connect with Me:
 
