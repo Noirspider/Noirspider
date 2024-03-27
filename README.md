@@ -2,7 +2,9 @@
 
 ![Matrix Code](assets/readmegif.gif)
 
-I'm a developer passionate about a wide range of technologies. Here's a quick overview of my skills:
+Hey there! I'm a tech enthusiast with a passion for diving into all sorts of cool technologies. Whether it's tinkering with new frameworks or exploring fresh coding languages, I'm always up for a challenge. Outside of coding, you can catch me swapping memes with the team and working together like a well-oiled machine. Big believer in the power of teamwork and sharing knowledge. Ready to jump into the coding fun?
+
+✨Skill:
 
 - 🌐 Web Development: ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
