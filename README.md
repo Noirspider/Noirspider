@@ -31,6 +31,7 @@ Hey there! I'm a tech enthusiast with a passion for diving into all sorts of coo
 
   - 🐳 Docker: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   - 🐍 Python: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - 🪶 Swift:  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 🤝 Connect with Me:
 
